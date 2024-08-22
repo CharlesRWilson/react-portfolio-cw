@@ -7,14 +7,14 @@ const Portfolio = () => {
     {
       title: 'Project 1',
       image: '/path-to-project1-image.jpg',
-      deployedLink: 'https://deployed-project1-link.com',
-      repoLink: 'https://github.com/yourusername/project1',
+      deployedLink: 'https://charlesrwilson.github.io/challenge-1-repo/',
+      repoLink: 'https://github.com/CharlesRWilson/challenge-1-repo.git',
     },
     {
-      title: 'Project 2',
+      title: 'Movies N Muchies!',
       image: '/path-to-project2-image.jpg',
-      deployedLink: 'https://deployed-project2-link.com',
-      repoLink: 'https://github.com/yourusername/project2',
+      deployedLink: ' https://tishthegoat.github.io/Movies-n-Munchies/',
+      repoLink: ' https://github.com/tishthegoat/Movies-n-Munchies.git',
     },
   ];
 
