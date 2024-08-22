@@ -16,7 +16,6 @@ const Portfolio = () => {
       deployedLink: 'https://deployed-project2-link.com',
       repoLink: 'https://github.com/yourusername/project2',
     },
-    // Add more projects as needed
   ];
 
   return (

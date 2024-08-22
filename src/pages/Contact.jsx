@@ -28,7 +28,7 @@ const Contact = () => {
 
     if (Object.keys(validationErrors).length === 0) {
       alert('Form submitted');
-      // Implement your form submission logic here
+      // Implement your form submission logic
     }
   };
 
